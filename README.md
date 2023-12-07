@@ -1,16 +1,10 @@
-# weather_app2
+Second Version of my weather app:
 
-A new Flutter project.
 
-## Getting Started
+![image 2](https://github.com/HabibBouzaffara/weather_app/assets/95718159/5082027b-bf9c-46fa-9feb-31e2ed798f57)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Second Version of my weather app:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![weatherappV1](https://github.com/HabibBouzaffara/weather_app/assets/95718159/176e6f2e-539e-4c31-bb91-1a270926837f)
